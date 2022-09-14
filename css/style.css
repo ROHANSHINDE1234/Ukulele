@@ -152,4 +152,7 @@
 
 .thumbnail img{
     width: 250px;
+    border: 2px solid black;
+    border-radius: 26px;
+    margin: 19px;
 }
