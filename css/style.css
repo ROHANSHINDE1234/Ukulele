@@ -156,3 +156,22 @@
     border-radius: 26px;
     margin: 19px;
 }
+
+.contact{
+    background-color: rgb(209, 221, 230);
+    height: 34vh;
+
+}
+
+.text-center{
+    text-align: center;
+}
+
+.form{
+    max-width: 344px;
+    margin: auto;
+}
+
+.form input{
+    width: 100%;
+}
