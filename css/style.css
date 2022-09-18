@@ -180,3 +180,12 @@
     border: 2px solid gray;
     border-radius: 6px;
 }
+
+.text-footer{
+    text-align: center;
+    padding: 30px 0;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
