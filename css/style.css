@@ -189,3 +189,40 @@
     justify-content: center;
     color: white;
 }
+
+
+
+.burger{
+    display: none;
+    position: absolute;
+    cursor: pointer;
+    right: 5%;
+    top: 15px;
+}
+
+.line{
+    width: 33px;
+    background-color: white;
+    height: 4px;
+    margin: 5px 3px;
+
+}
+@media only screen and (max-width: 875px){
+    .nav-list{
+        flex-direction: column;
+    }
+
+    .navbar{
+        flex-direction: column;
+    }
+
+    .rightNav{
+        text-align: center;
+    }
+    #search{
+        width: 100%;
+    }
+    .burger{
+        display: block;
+    }
+}
