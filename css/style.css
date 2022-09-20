@@ -225,4 +225,12 @@
     .burger{
         display: block;
     }
+    .h-nav-resp{
+        height: 72px;
+
+    }
+    .v-class-resp{
+        opacity: 0;
+
+    }
 }
